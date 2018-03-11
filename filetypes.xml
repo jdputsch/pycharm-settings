@@ -6,6 +6,7 @@
       <mapping ext="jinja" type="Jinja2" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="create_ip" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
