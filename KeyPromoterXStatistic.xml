@@ -41,6 +41,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy...">
+        <Item>
+          <IdeaActionID>CopyElement</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Copy...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
@@ -335,6 +343,14 @@
           <ShortCut>'⌃C, ⌃R'</ShortCut>
           <Description>Resume Program</Description>
           <Count>141</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌃⌥Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
