@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cd72bf54-ab01-4648-9b56-09e97238c581" name="mipi" url="http:///">
+        <fileTransfer host="svllmts239.maxim-ic.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa_maxim" rootFolder="/home/putsch" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
