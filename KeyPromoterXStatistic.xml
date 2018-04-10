@@ -142,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'mipi whoami'</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'py.test in tests'">
@@ -350,7 +350,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌃C, ⌃R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>144</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -462,7 +462,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'mipi whoami'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'py.test in tests'">
@@ -526,7 +526,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'⌃C, ⌃N'</ShortCut>
           <Description>Step Over</Description>
-          <Count>452</Count>
+          <Count>454</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Python Console Debugger'">
@@ -622,7 +622,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃X, Space'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>110</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Typing">
