@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'cli'</Description>
-          <Count>67</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'exer01'">
@@ -198,7 +198,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌃C, ⌃P'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -286,7 +286,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6' or '⌃C, R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Python'">
@@ -366,7 +366,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌃C, ⌃R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>156</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -430,7 +430,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'cli'</Description>
-          <Count>20</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'exer01'">
@@ -550,7 +550,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'⌃C, ⌃N'</ShortCut>
           <Description>Step Over</Description>
-          <Count>467</Count>
+          <Count>472</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Python Console Debugger'">
@@ -654,7 +654,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃X, Space'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>128</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Typing">
