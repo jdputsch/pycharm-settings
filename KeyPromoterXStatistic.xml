@@ -121,6 +121,14 @@
           <Count>34</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'mipi copy'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'mipi copy'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'mipi group add ex01.ex01a.TRUNK-o'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -654,7 +662,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃X, Space'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>135</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Typing">
