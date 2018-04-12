@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'mipi up --dry-run'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'mipi user add d a'">
@@ -654,7 +654,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃X, Space'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>133</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Typing">
