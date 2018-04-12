@@ -150,7 +150,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'mipi whoami'</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'py.test in tests'">
@@ -550,7 +550,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'⌃C, ⌃N'</ShortCut>
           <Description>Step Over</Description>
-          <Count>476</Count>
+          <Count>478</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Python Console Debugger'">
