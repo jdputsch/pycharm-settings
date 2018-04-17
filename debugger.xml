@@ -12,11 +12,6 @@
           <custom-object-presentation />
         </configuration>
       </debugger>
-      <debugger id="python">
-        <configuration>
-          <option name="librariesFilterEnabled" value="true" />
-        </configuration>
-      </debugger>
     </debuggers>
   </component>
 </application>
