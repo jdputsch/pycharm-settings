@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'mipi workspace info /design/mproj/bc60/u...'</Description>
-          <Count>77</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'py.test in tests'">
@@ -622,7 +622,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'⌃C, ⌃N'</ShortCut>
           <Description>Step Over</Description>
-          <Count>720</Count>
+          <Count>724</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Python Console Debugger'">
@@ -710,7 +710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'mipi workspace info /design/mproj/bc60/users/putsch/bc60.bc60a'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'py.test in tests'">
@@ -758,7 +758,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃X, Space'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>202</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Typing">
