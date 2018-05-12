@@ -305,6 +305,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'⇧⌘S'</ShortCut>
+          <Description>Find in Path...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Help">
         <Item>
           <IdeaActionID>ContextHelp</IdeaActionID>
@@ -814,7 +822,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌃⌥Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>8</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
