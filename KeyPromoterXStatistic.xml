@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌥5'</ShortCut>
           <Description>Debug</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'J18_07 Tests'">
@@ -214,7 +214,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'mipi'</Description>
-          <Count>11</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'py.test in tests'">
@@ -270,7 +270,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌃C, ⌃P'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>58</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -465,6 +465,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'mipi'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'mipi'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'py.test in tests'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -486,7 +494,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌃C, ⌃R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>290</Count>
+          <Count>301</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -641,6 +649,14 @@
           <Count>26</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'mipi'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'mipi'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'py.test in tests'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -686,7 +702,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'⌃C, ⌃S'</ShortCut>
           <Description>Step Into</Description>
-          <Count>238</Count>
+          <Count>249</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into My Code">
@@ -702,7 +718,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>12</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -710,7 +726,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'⌃C, ⌃N'</ShortCut>
           <Description>Step Over</Description>
-          <Count>846</Count>
+          <Count>889</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Python Console Debugger'">
@@ -862,7 +878,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃X, Space'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>240</Count>
+          <Count>246</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Typing">
