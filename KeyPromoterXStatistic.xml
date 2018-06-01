@@ -54,7 +54,7 @@
           <IdeaActionID>CopyElement</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Copy...</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -609,6 +609,22 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'j18_22_a'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'j18_22_a'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'j18_22_mic0331'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'j18_22_mic0331'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'mipi command'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -799,6 +815,22 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'j18_20'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'j18_22_a'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'j18_22_a'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'j18_22_mic0331'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'j18_22_mic0331'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'mipi command'">
