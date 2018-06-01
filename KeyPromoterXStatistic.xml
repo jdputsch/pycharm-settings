@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'⌃⌥A'</ShortCut>
+          <Description>Add</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Add to VCS">
         <Item>
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
@@ -398,7 +406,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6' or '⌃C, R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Python'">
@@ -593,6 +601,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'j18_20'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'j18_20'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'mipi command'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -775,6 +791,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'exer01'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'j18_20'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'j18_20'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'mipi command'">
