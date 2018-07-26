@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'cli'</Description>
-          <Count>178</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'cli_2'">
@@ -286,7 +286,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌃C, ⌃P'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>87</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -526,7 +526,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌃C, ⌃R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>358</Count>
+          <Count>360</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -590,7 +590,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'cli'</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'cli_2'">
@@ -790,7 +790,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'⌃C, ⌃N'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1043</Count>
+          <Count>1066</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Python Console Debugger'">
@@ -822,7 +822,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'cli'</Description>
-          <Count>32</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'cli_2'">
