@@ -1,6 +1,0 @@
-<application>
-  <component name="StringSettings">
-    <option name="maxLength" value="12" />
-    <option name="minLength" value="12" />
-  </component>
-</application>
